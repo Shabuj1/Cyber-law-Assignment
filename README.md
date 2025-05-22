@@ -1,11 +1,11 @@
 # 	Assignment Title:Building a Resilient Digital Future : Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples.
 
 # Submitted BY
-NAME : Shabuj Mia< br / >
-ID : 2002040< br / >
-Level 4, Semester 2< br / >
-Department of Computer Science and Engineering< br / >
-Hajee Mohammad Danesh Science and Technology University.< br / >
+NAME : Shabuj Mia<br>
+ID : 2002040
+Level 4, Semester II
+Department of Computer Science and Engineering
+Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200
 
 # Submitted to
 Pankaj Bhowmik
