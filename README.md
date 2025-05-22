@@ -2,16 +2,16 @@
 
 # Submitted BY
 NAME : Shabuj Mia<br>
-ID : 2002040
-Level 4, Semester II
-Department of Computer Science and Engineering
-Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200
+ID : 2002040<br>
+Level 4, Semester II<br>
+Department of Computer Science and Engineering<br>
+Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200<br>
 
 # Submitted to
-Pankaj Bhowmik
-Lecturer
-Department of Computer Science and Engineering
-Hajee Mohammad Danesh Science & Technology University.
+Pankaj Bhowmik<br>
+Lecturer<br>
+Department of Computer Science and Engineering<br>
+Hajee Mohammad Danesh Science & Technology University.<br>
 
 # Cyber crime
 Cyber crime refers to illegal activities carried out using computers, digital devices, or the internet. It can target individuals, organizations, or governments, and includes a wide range of malicious actions.
